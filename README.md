@@ -10,6 +10,7 @@ Streamlit Python to LaTeX Code Formatter is a web application that downloads Pyt
 
 ## Project Structure
 
+```
 ├── Dockerfile
 ├── docker-compose.yml
 ├── docker_compose_build.sh
@@ -20,6 +21,8 @@ Streamlit Python to LaTeX Code Formatter is a web application that downloads Pyt
     ├── latex_tail.tex
     ├── requirements.txt
     └── run_streamlit.sh
+```
+
 
 ## Getting Started
 
@@ -32,22 +35,22 @@ Streamlit Python to LaTeX Code Formatter is a web application that downloads Pyt
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/NorSoulx/streamlit_py2latex.git
 cd streamlit_py2latex
 ```
 
 2. Build the Docker image:
 
-```bash
-./docker_compose_build.sh
+```
+bash ./docker_compose_build.sh
 ```
 
 
 3. Run the Docker container:
 
-```bash
-./docker_compose_run.sh
+```
+bash ./docker_compose_run.sh
 ```
 
 4. Open your web browser and navigate to http://localhost:8501.
