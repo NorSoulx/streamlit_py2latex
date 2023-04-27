@@ -56,4 +56,5 @@ bash ./docker_compose_run.sh
 4. Open your web browser and navigate to http://localhost:8501.
 
 
+<img width="788" alt="py2latex" src="https://user-images.githubusercontent.com/4839848/235004016-432b1200-1330-46d8-992f-282d4f034a6d.png">
 
