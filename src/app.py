@@ -40,7 +40,7 @@ def download_code_from_url(url):
         return ""
 
 
-st.title("Python Code to Latex Formatter")
+st.title("Python Code to LaTeX Formatter")
 
 default_url = "https://raw.githubusercontent.com/python/mypy/master/mypy/checker.py"
 
